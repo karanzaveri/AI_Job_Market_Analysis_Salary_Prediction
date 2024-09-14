@@ -2,7 +2,7 @@
 # AI Job Market Analysis & Salary Prediction
 
 ## Project Overview
-This project, provides an in-depth analysis of the AI job market and predicts salary trends using machine learning models. The dataset is sourced from **Kaggle** and contains comprehensive data on AI-related job roles, requirements, and salary information. The goal is to uncover trends, analyze key factors influencing salaries, and provide predictions based on those factors.
+This project provides an in-depth analysis of the AI job market and predicts salary trends using machine learning models. The dataset is sourced from **Kaggle** and contains comprehensive data on AI-related job roles, requirements, and salary information. The goal is to uncover trends, analyze key factors influencing salaries, and provide predictions based on those factors.
 
 ---
 
